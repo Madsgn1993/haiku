@@ -1,0 +1,60 @@
+html {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+body {
+  /* background-color: black;*/
+  background-image: url("japanese.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  margin: auto;
+}
+
+button {
+  /* background-color: cadetblue;*/
+  
+  background-color: #00223d;
+  color:#f0ed9c;
+  border-radius: 8px;
+  margin: 50px;
+  height: 100px;
+  width: 150px;
+    margin: 8px;
+  font-size: 15px;
+  border: none;
+  /*align-items: center;*/
+}
+p {
+  background-color: burlywood;
+  color: #00223d;
+}
+h1 {
+  background-color: #00223d;
+  color: #f0ed9c;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  margin-top: 50px;
+  border-radius: 8px;
+  padding: 18px;
+}
+/*---------------------------------------------------------------*/
+#content_haiku {
+  height: 100%;
+  margin-top: 200px;
+  /*background-color: burlywood;*/
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.content{
+
+
+
+    width: 200px;
+
+
+}
